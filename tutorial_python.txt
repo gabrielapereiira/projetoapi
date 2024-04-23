@@ -1,0 +1,3 @@
+Python é uma linguagem de programação versátil e de alto nível, amplamente utilizada no desenvolvimento de aplicativos, web, análise de dados e automação de tarefas. 
+Com uma sintaxe simples e legível, Python é conhecido por sua facilidade de aprendizado e produtividade. 
+Sua ampla gama de bibliotecas e frameworks torna possível criar uma variedade de projetos, desde scripts simples até sistemas complexos. 
