@@ -19,5 +19,12 @@ O módulo venv oferece suporte à criação de “ambientes virtuais” leves, c
 
 
 Criação do virtualenv
+
 Abrir terminal do gitbash
 Digite o código "python -m venv .venv", em seguida ative o venv com o código  "source .venv/Scripts/activivate"
+
+
+Tutorial instalação do Flask
+
+Com o virtualenv ativado insira o comando "python.exe -m pip install --upgrade pip" para atualizar o pip. (passo opcional)
+Instale o Flask com o comando "pip install Flask"
