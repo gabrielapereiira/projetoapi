@@ -4,7 +4,7 @@ Sua ampla gama de bibliotecas e frameworks torna possível criar uma variedade d
 
 Acesse o site oficial do Python (www.python.org) e clique na opção de download.
 Após o download do instalador, execute-o. Na primeira tela, certifique-se de marcar a opção “Add Python to PATH” e clique em “Install Now”.
-Após a conclusão da instalação, você pode verificar se o Python foi instalado corretamente abrindo o Prompt de Comando e digitando “python –version”. Se a versão do Python for exibida, significa que a instalação foi bem-sucedida.
+Após a conclusão da instalação, você pode verificar se o Python foi instalado corretamente abrindo o Prompt de Comando e digitando “python –version”. Se a versão do Python for exibida, significa que a instalação foi bem-s
 
 Abra o Terminal em seu Mac ou Linux. Verifique se o Python já está instalado digitando “python –version”. Se o Python já estiver instalado, a versão será exibida. Caso contrário, você precisará instalar o Python.
 No Mac, você pode usar o Homebrew para instalar o Python. Digite o seguinte comando no Terminal: “brew install python”.
