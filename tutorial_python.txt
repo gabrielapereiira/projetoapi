@@ -1,3 +1,7 @@
 Python é uma linguagem de programação versátil e de alto nível, amplamente utilizada no desenvolvimento de aplicativos, web, análise de dados e automação de tarefas. 
 Com uma sintaxe simples e legível, Python é conhecido por sua facilidade de aprendizado e produtividade. 
-Sua ampla gama de bibliotecas e frameworks torna possível criar uma variedade de projetos, desde scripts simples até sistemas complexos. 
+Sua ampla gama de bibliotecas e frameworks torna possível criar uma variedade de projetos, desde scripts simples até sistemas complexos.
+
+Acesse o site oficial do Python (www.python.org) e clique na opção de download.
+Após o download do instalador, execute-o. Na primeira tela, certifique-se de marcar a opção “Add Python to PATH” e clique em “Install Now”.
+Após a conclusão da instalação, você pode verificar se o Python foi instalado corretamente abrindo o Prompt de Comando e digitando “python –version”. Se a versão do Python for exibida, significa que a instalação foi bem-sucedida.
