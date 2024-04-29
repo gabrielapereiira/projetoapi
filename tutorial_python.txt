@@ -28,3 +28,5 @@ Tutorial instalação do Flask
 
 Com o virtualenv ativado insira o comando "python.exe -m pip install --upgrade pip" para atualizar o pip. (passo opcional)
 Instale o Flask com o comando "pip install Flask"
+
+
